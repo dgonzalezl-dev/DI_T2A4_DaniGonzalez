@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Mon Nov 18 14:12:11 CET 2019:
+ Iniciando instancia a816c00e-016e-7ea4-5d7c-00000a34d2f8 de Derby, versión The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): 
+en el directorio de base de datos E:\DIT2_A4\BDAgenda con el cargador de clases sun.misc.Launcher$AppClassLoader@6f94fa3e
+Cargado desde file:/C:/Users/Dani/Desktop/Nueva%20carpeta%20(2)/db.derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=E:\DIT2_A4
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Nov 18 14:13:03 CET 2019:
+Cerrando la instancia a816c00e-016e-7ea4-5d7c-00000a34d2f8 en el directorio de base de datos E:\DIT2_A4\BDAgenda con cargador de clases sun.misc.Launcher$AppClassLoader@6f94fa3e
